@@ -13,17 +13,7 @@
 
 - LinkedIn: **linkedin.com/in/cactus137** 
 
-- Linktree: **linktr.ee/blackk8326** 
-
-- 🔭 I’m currently working on **Furni**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- Linktree: **linktr.ee/blackk8326**  
 
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
