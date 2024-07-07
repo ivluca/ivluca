@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Le Van Thanh</h1>
 <h3 align="center">A passionate Backend Developer from VietNam</h3> 
 
-<h3 align="left">Contacts me</h3>
+- 🔭 I’m currently working on Vexa Web App
 
- 
+- 🌱 I’m currently learning DevOps
 
-- Instagram: **iamluca.13**
+- 💬 Ask me about Android , MEARN
 
-- LinkedIn: **linkedin.com/in/cactus137** 
+- 📫 How to reach me rishavchanda0@gmail.com
 
-- Linktree: **linktr.ee/blackk8326**  
+- ⚡ Fun fact I am Funny
    
 .....
 
