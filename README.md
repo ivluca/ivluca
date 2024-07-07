@@ -1,12 +1,12 @@
 **Hey, I'm Van Thanh!** 👋
 
-I'm a passionate Backend Developer from Vietnam 🇻🇳.
+- I'm a passionate Backend Developer from Vietnam 🇻🇳.
 
-In my free time, I enjoy skateboarding 🛹 and drawing 🎨 with my friends.
+- In my free time, I enjoy skateboarding 🛹 and drawing 🎨 with my friends.
 
-Have a good day!🌵.
+- Have a good day!🌵.
 
-### Tech Stack
+**Tech Stack**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -18,7 +18,7 @@ Have a good day!🌵.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Working with
+**Working with**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHPSTORM](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
@@ -26,7 +26,7 @@ Have a good day!🌵.
 ![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### Contacts
+**Contacts**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackwhilee04@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/765541308986818560)
