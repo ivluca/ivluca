@@ -5,9 +5,15 @@
 
 <h3 align="left">Contacts</h3>
 
-- Email:
+- Gmail: **blackwhilee04@gmail.com**
 
-- 
+- Discord: **iamluca.137**
+
+- Instagram: **iamluca.13**
+
+- LinkedIn: **linkedin.com/in/cactus137** 
+
+- Linktree: **linktr.ee/blackk8326** 
 
 - 🔭 I’m currently working on **Furni**
 
