@@ -80,18 +80,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Figma](https://img.shields.io/badge/Figma-4f190c?logo=figma&logoColor=F24E1E&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## <p align="center">Profile Views</p>
-
-## <p align="center">[![Hits](https://hits.sh/github.com/ngoctienTNT/ngoctienTNT.svg?style=for-the-badge&label=Views&extraCount=4867&color=54856b)](https://hits.sh/github.com/ngoctienTNT/ngoctienTNT/)</p>
-
-## <p align="center">Top language</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
-
  
-
-<hr>
 <br>
 
 ### Contacts
