@@ -11,8 +11,7 @@
 - 📫 How to reach me rishavchanda0@gmail.com
 
 - ⚡ Fun fact I am Funny
-   
-.....
+    
 
 ### Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
