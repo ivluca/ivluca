@@ -1,11 +1,4 @@
-**Hey, I'm Van Thanh!** 👋
-
-- I'm a passionate Backend Developer from Vietnam 🇻🇳.
-
-- In my free time, I enjoy skateboarding 🛹 and drawing 🎨 with my friends.
-
-- Have a good day!🌵.
-
+**Hey, I'm Van Thanh! A passionate Backend Developer from Vietnam**
 
 **Tech Stack**
 
@@ -29,7 +22,5 @@
 **Contacts**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lv.thanh137@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/765541308986818560)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamluca137/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iamluca.13/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/iamluca.13)
