@@ -1,4 +1,4 @@
-**Hey, I'm Van Thanh! A passionate Backend Developer from Vietnam**
+**I'm Van Thanh! A passionate Backend Developer from Vietnam 👋**
 
 **Tech Stack**
 
